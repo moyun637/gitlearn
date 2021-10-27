@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("创建新的分支");
         System.out.println("刚才上传信息错了");
         System.out.println("主干内容");
+        System.out.println("分支添加");
     }
 }
